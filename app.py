@@ -1,5 +1,5 @@
 # AI Disclosure:
-# ChatGPT was used to assist with understanding REST API concepts and implementing the task endpoints.
+# ChatGPT was used to assist with rewriting code to python from RUST/wrap
 # All code was reviewed, tested, and understood before submission.
 
 
